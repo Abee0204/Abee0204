@@ -52,7 +52,7 @@ I build **production-ready web apps with clean architecture, real backend system
 
 ## 🌐 Live Projects
 
-* 🔗 SocialHaus → socialshaus.co
+* 🔗 SocialHaus → https://www.socialshaus.co/
 * 🔗 Job Portal → https://job-portal-abee3.vercel.app/
 * 🔗 NotesHub → https://noteshub26.netlify.app/
 
