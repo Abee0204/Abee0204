@@ -100,13 +100,13 @@ A marketing agency website built for a real client
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abee0204\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abee0204&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abee0204\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abee0204&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abee0204)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abee0204&theme=tokyonight)  
 
 ---
 
