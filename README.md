@@ -1,6 +1,6 @@
 # Hi, I'm Abhay 👋
 
-### 🚀 Full Stack Developer (Frontend Focused) from India 🇮🇳
+### 🚀 Full Stack Developer from India 🇮🇳
 
 I build **production-ready web apps with clean architecture, real backend systems, and scalable frontend experiences**
 
